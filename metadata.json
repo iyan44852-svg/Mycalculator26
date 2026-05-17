@@ -1,0 +1,6 @@
+{
+  "name": "mycalculator26",
+  "description": "Smart calculator with custom formula buttons and natural language input powered by Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
